@@ -1,0 +1,10 @@
+{
+  "name": "JoPacking",
+  "description": "A multi-tenant SaaS platform for marketplace sellers to record shipment packing videos as digital evidence, preventing disputes and parcel fraud.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
